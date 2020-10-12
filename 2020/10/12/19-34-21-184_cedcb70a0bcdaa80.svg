@@ -1,0 +1,164 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="666.8529" height="213.6221" viewBox="0 0 666.8529 213.6221">
+  <defs>
+    <style>
+      .cls-1, .cls-2 {
+        fill: #33c736;
+      }
+
+      .cls-1 {
+        opacity: 0.37;
+      }
+
+      .cls-2, .cls-3 {
+        opacity: 0.16;
+      }
+
+      .cls-4, .cls-5, .cls-6 {
+        fill: #bb2a1d;
+      }
+
+      .cls-4 {
+        opacity: 0.08;
+      }
+
+      .cls-5 {
+        opacity: 0.36;
+      }
+
+      .cls-6 {
+        opacity: 0.14;
+      }
+
+      .cls-18, .cls-19, .cls-7, .cls-9 {
+        fill: none;
+        stroke-miterlimit: 10;
+      }
+
+      .cls-7 {
+        stroke: #272525;
+        stroke-width: 0.5557px;
+      }
+
+      .cls-10, .cls-20, .cls-22, .cls-8 {
+        font-size: 12px;
+      }
+
+      .cls-8 {
+        font-family: TimesNewRomanPSMT, Times New Roman;
+      }
+
+      .cls-19, .cls-9 {
+        stroke: #000;
+      }
+
+      .cls-9 {
+        stroke-width: 1.0954px;
+      }
+
+      .cls-10 {
+        font-family: GillSans, Gill Sans;
+      }
+
+      .cls-11 {
+        letter-spacing: -0.0151em;
+      }
+
+      .cls-12 {
+        letter-spacing: -0.02em;
+      }
+
+      .cls-13 {
+        letter-spacing: -0.0249em;
+      }
+
+      .cls-14 {
+        letter-spacing: -0.0098em;
+      }
+
+      .cls-15 {
+        letter-spacing: 0.0298em;
+      }
+
+      .cls-16 {
+        letter-spacing: -0.04em;
+      }
+
+      .cls-17, .cls-20 {
+        font-family: MyriadPro-Regular, Myriad Pro;
+      }
+
+      .cls-18 {
+        stroke: #0035b9;
+        stroke-width: 3px;
+      }
+
+      .cls-20, .cls-21, .cls-22 {
+        isolation: isolate;
+      }
+
+      .cls-22 {
+        font-family: MyriadPro-It, Myriad Pro;
+        font-style: italic;
+      }
+    </style>
+  </defs>
+  <title>spectrum of behaviors</title>
+  <g id="Layer_2" data-name="Layer 2">
+    <rect class="cls-1" x="26.3052" y="66.7568" width="32.3418" height="120"/>
+    <rect class="cls-2" x="58.9718" y="66.7568" width="63.6751" height="120"/>
+    <rect class="cls-3" x="122.9718" y="66.7568" width="63.6751" height="120"/>
+    <rect class="cls-4" x="186.647" y="66.7568" width="31.3333" height="120"/>
+    <rect class="cls-5" x="573.647" y="66.7568" width="92" height="120"/>
+    <rect class="cls-6" x="218.3136" y="66.7568" width="355.3333" height="120"/>
+  </g>
+  <g id="Layer_1" data-name="Layer 1">
+    <line class="cls-7" x1="26.397" y1="187.1221" x2="26.397" y2="194.1221"/>
+    <line class="cls-7" x1="58.7303" y1="187.1221" x2="58.7303" y2="194.1221"/>
+    <text class="cls-8" transform="translate(16.7301 189.7891)">0</text>
+    <text class="cls-8" transform="translate(16.7301 70.1224)">1</text>
+    <line class="cls-7" x1="122.4805" y1="187.1221" x2="122.4805" y2="194.1221"/>
+    <line class="cls-7" x1="186.8172" y1="187.1221" x2="186.8172" y2="194.1221"/>
+    <line class="cls-7" x1="218.0313" y1="187.1221" x2="218.0313" y2="194.1221"/>
+    <line class="cls-7" x1="573.4803" y1="187.1221" x2="573.4803" y2="194.1221"/>
+    <rect class="cls-9" x="26.3052" y="66.7568" width="640" height="120"/>
+    <text class="cls-10" transform="translate(16.2951 41.6221)">n<tspan class="cls-11" x="6" y="0">e</tspan><tspan class="cls-12" x="11.5664" y="0">v</tspan><tspan x="16.582" y="0">er jams</tspan><tspan x="1.2832" y="12">(p</tspan><tspan class="cls-13" x="11.1621" y="12">r</tspan><tspan class="cls-14" x="15.6152" y="12">o</tspan><tspan x="22.1191" y="12">vable)</tspan></text>
+    <text class="cls-10" transform="translate(63.4617 10.1221)">n<tspan class="cls-11" x="6" y="0">e</tspan><tspan class="cls-12" x="11.5664" y="0">v</tspan><tspan x="16.582" y="0">er jams</tspan><tspan x="-0.3486" y="12">(obse</tspan><tspan class="cls-15" x="26.5166" y="12">r</tspan><tspan class="cls-12" x="31.626" y="12">v</tspan><tspan x="36.6416" y="12">ed)</tspan></text>
+    <text class="cls-10" transform="translate(115.9442 53.6221)">transition zone</text>
+    <text class="cls-10" transform="translate(174.4465 10.1221)">a<tspan class="cls-14" x="5.1211" y="0">l</tspan><tspan x="7.6348" y="0">w</tspan><tspan class="cls-16" x="16.2656" y="0">a</tspan><tspan x="20.9063" y="0">ys jams</tspan><tspan x="1.5" y="12">(obse</tspan><tspan class="cls-15" x="28.3652" y="12">r</tspan><tspan class="cls-12" x="33.4746" y="12">v</tspan><tspan x="38.4902" y="12">ed)</tspan></text>
+    <text class="cls-10" transform="translate(350.2235 124.1221)">jams on disk <tspan class="cls-17" x="63.3574" y="0">2</tspan><tspan x="10.0215" y="12">(p</tspan><tspan class="cls-13" x="19.9004" y="12">r</tspan><tspan class="cls-14" x="24.3535" y="12">o</tspan><tspan x="30.8574" y="12">vable)</tspan></text>
+    <text class="cls-10" transform="translate(583.8905 122.6221)">jams on disk<tspan class="cls-17" x="60.0234" y="0">1</tspan><tspan x="8.3545" y="12">(p</tspan><tspan class="cls-13" x="18.2334" y="12">r</tspan><tspan class="cls-14" x="22.6865" y="12">o</tspan><tspan x="29.1904" y="12">vable)</tspan></text>
+    <path class="cls-18" d="M80.6582,398.1348h96.1753C201,398.1348,212.1667,278.5,244.5,278.5c52.3336,0,476.1582-.3652,476.1582-.3652" transform="translate(-54.353 -211.3779)"/>
+    <text class="cls-10" transform="translate(10.1221 180.9653) rotate(-90)">p<tspan class="cls-13" x="6" y="0">r</tspan><tspan x="10.4531" y="0">obability of jamming</tspan></text>
+    <g>
+      <line class="cls-19" x1="42.647" y1="58.9554" x2="42.647" y2="88.1457"/>
+      <circle cx="42.647" cy="88.0329" r="2.2559"/>
+    </g>
+    <g>
+      <line class="cls-19" x1="88.647" y1="26.9554" x2="88.647" y2="88.1457"/>
+      <circle cx="88.647" cy="88.0329" r="2.2559"/>
+    </g>
+    <g>
+      <line class="cls-19" x1="152.647" y1="58.9554" x2="152.647" y2="88.1457"/>
+      <circle cx="152.647" cy="88.0329" r="2.2559"/>
+    </g>
+    <g>
+      <line class="cls-19" x1="202.647" y1="25.6221" x2="202.647" y2="88.1457"/>
+      <circle cx="202.647" cy="88.0329" r="2.2559"/>
+    </g>
+    <text class="cls-20" transform="translate(23.5565 205.7891)">1</text>
+    <text class="cls-20" transform="translate(56.1152 205.7891)">?</text>
+    <g class="cls-21">
+      <text class="cls-20" transform="translate(108.7775 205.7891)">≈</text>
+      <text class="cls-20" transform="translate(115.9775 205.7891)">1</text>
+      <text class="cls-20" transform="translate(121.1775 205.7891)">.3</text>
+    </g>
+    <g class="cls-21">
+      <text class="cls-20" transform="translate(174.1141 205.7891)">≈</text>
+      <text class="cls-20" transform="translate(181.3141 205.7891)">1</text>
+      <text class="cls-20" transform="translate(186.5141 205.7891)">.5</text>
+    </g>
+    <text class="cls-20" transform="translate(210.4542 205.7891)">1.6</text>
+    <text class="cls-20" transform="translate(565.9031 205.7891)">2.7</text>
+    <text class="cls-22" transform="translate(333.3136 210.6221)">s</text>
+  </g>
+</svg>
